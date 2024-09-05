@@ -22,9 +22,8 @@
 <p align="left">
 <a href="https://X.com/huzpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huzpal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/huzaifa ahmed pallan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzaifa ahmed pallan" height="30" width="40" /></a>
-<a href="https://kaggle.com/huzaifa ahmed pallan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="huzaifa ahmed pallan" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/huzaifaahmedpallan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="huzaifa ahmed pallan" height="30" width="40" /></a>
 <a href="https://instagram.com/huzaifa__ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huzaifa__ahmed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/huzaifa ahmed pallan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="huzaifa ahmed pallan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
