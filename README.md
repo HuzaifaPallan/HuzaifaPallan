@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://X.com/huzpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huzpal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/huzaifa ahmed pallan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzaifa ahmed pallan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/huzaifa-ahmed-pallan-18829b85/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzaifa ahmed pallan" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/huzaifaahmedpallan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="huzaifa ahmed pallan" height="30" width="40" /></a>
 <a href="https://instagram.com/huzaifa__ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huzaifa__ahmed" height="30" width="40" /></a>
 </p>
