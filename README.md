@@ -2,17 +2,17 @@
   <img src="https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif" alt="MasterHead" style="width: 1600px; height: 300px;">
 </a>
 <h1 align="center">Hi 👋, I'm Huzaifa Ahmed Pallan</h1>
-<h3 align="center">A Computer Science Engineering Student and an Upcoming DevSecOps and Cyber Security professional</h3>
+<h3 align="center">A Computer Science Engineering Student and an Upcoming Cyber Security & Web3 professional</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.kali.org/blog/kali-linux-2019-4-release/images/kali-preview-boot.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifapallan&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifapallan" /> </p>
 
-- 🌱 I’m currently learning **DevSecOps**
+- 🌱 I’m currently learning **Web3**
 
 - 👯 I’m looking to collaborate on **CyberSec Research**
 
-- 💬 Ask me about **API and BackEnd Development**
+- 💬 Ask me about **BackEnd Development**
 
 - 📫 How to reach me **huz.pal@gmail.com**
 
