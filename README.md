@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **huz.pal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1tA8p7qbKW0468DnA9w8NBzjR4sgkt2db?usp=drive_link]
+- 📄 Know more about me [https://huzaifapallan.bio.link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
